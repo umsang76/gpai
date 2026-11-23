@@ -18,5 +18,10 @@
     "규약",
     "investment partnership",
     "Korea"
-  ]
+  ],
+  "homepage": "https://github.com/umsang76/gpai",
+  "repository": "https://github.com/umsang76/gpai",
+  "documentationUrl": "https://github.com/umsang76/gpai#readme",
+  "supportUrl": "https://github.com/umsang76/gpai/issues",
+  "privacyPolicyUrl": "https://github.com/umsang76/gpai/blob/main/PRIVACY.md"
 }
