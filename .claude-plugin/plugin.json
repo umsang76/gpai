@@ -1,23 +1,28 @@
 {
   "name": "gpai-fund-formation",
   "displayName": "개인투자조합 결성 도우미",
-  "version": "0.1.0",
-  "description": "한국 개인투자조합(벤처투자법) 결성 실무 도우미: 법정 요건 점검, 결성계획신청 서류 구성, VICS 1704 입력 절차, 날인본 검수 기준. Korean individual investment partnership (개인투자조합) formation assistant for GPs.",
+  "version": "0.2.0",
+  "description": "한국 개인투자조합(벤처투자법) 결성·등록 실무 도우미: 법정 요건 점검, 결성계획신청 서류, VICS 1704 입력, 날인본 검수, 결성총회·고유번호증·등록신청 서류 작성. Korean individual investment partnership (개인투자조합) formation and registration assistant for GPs.",
   "author": {
     "name": "Contango Partners"
   },
   "license": "CC-BY-NC-ND-4.0",
   "keywords": [
+    "GP",
+    "Korea",
+    "VICS",
+    "investment partnership",
     "개인투자조합",
+    "결성계획신청",
+    "결성총회",
+    "고유번호증",
+    "규약",
+    "등록신청",
+    "벤처투자",
     "조합",
     "조합결성",
-    "결성계획신청",
-    "VICS",
-    "GP",
-    "벤처투자",
-    "규약",
-    "investment partnership",
-    "Korea"
+    "조합원명부",
+    "출자증표"
   ],
   "homepage": "https://github.com/umsang76/gpai",
   "repository": "https://github.com/umsang76/gpai",
