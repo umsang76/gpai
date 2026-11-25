@@ -1,5 +1,7 @@
 # GPai — 개인투자조합 결성
 
+> ※ 이 플러그인의 답변과 작성 서류는 일반 정보 제공과 실무 보조를 위한 것이며 법률 자문이 아닙니다(This is not professional legal advice). 개별 사안의 법적 판단은 변호사 등 전문가와 소관 기관(중소벤처기업부, 한국엔젤투자협회)에 확인하세요.
+
 한국 개인투자조합(벤처투자법)의 업무집행조합원(GP)이 조합을 결성할 때 Claude가 실무 순서대로 도와주도록 만든 플러그인입니다. 실제 결성계획신청과 VICS 입력 과정을 기록한 기준을 담았습니다.
 
 ## 할 수 있는 일
@@ -32,3 +34,8 @@
 ## 라이선스
 
 CC BY-NC-ND 4.0 — 비상업적 이용과 출처 표시 조건으로 자유롭게 사용할 수 있으며, 변경본 배포는 허용하지 않습니다.
+
+
+## 법률 자문 아님 (Not legal advice)
+
+이 플러그인은 개인투자조합 결성·등록 실무에 관한 일반 정보와 서류 작성 보조를 제공합니다. 법률·세무 자문이 아니며, 특정 조합이나 개인의 상황에 대한 법적 결론을 대신하지 않습니다. This plugin provides general information and document-drafting assistance only; it is not professional legal or tax advice.
